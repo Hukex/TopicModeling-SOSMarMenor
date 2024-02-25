@@ -16,7 +16,7 @@ This project was developed in order to learn **Topic modeling with Gensim**;
 
 # Preview🔍
 
-[💠You can try it!💠](https://github.com/Hukex/ModeloRegresionLinealVivienda/blob/main/TopicModeling-SOSMarMenorFEVM.ipynb)
+[💠You can try it!💠](https://github.com/Hukex/TopicModeling-SOSMarMenor/blob/main/TopicModeling-SOSMarMenorFEVM.ipynb)
 
 # Technologies💻
 
